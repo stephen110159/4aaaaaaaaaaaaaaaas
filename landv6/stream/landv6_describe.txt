@@ -1,0 +1,4 @@
+land sha9
+code: landv6
+speed: 160 mile
+price: 150,000$
